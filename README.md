@@ -27,7 +27,7 @@ This project focuses on data analysis using Python libraries like Pandas and Num
 
 ## 📂roject Structure
 
-* capstone_project.ipynb / main.py
+* capstone-python-code.py 
 * README.md
 
 ## Objective
